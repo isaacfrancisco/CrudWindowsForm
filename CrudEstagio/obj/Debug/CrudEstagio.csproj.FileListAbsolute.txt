@@ -1,0 +1,15 @@
+C:\Users\isaac\source\repos\CrudEstagio\CrudEstagio\obj\Debug\CrudEstagio.csprojAssemblyReference.cache
+C:\Users\isaac\source\repos\CrudEstagio\CrudEstagio\obj\Debug\CrudEstagio.Form1.resources
+C:\Users\isaac\source\repos\CrudEstagio\CrudEstagio\obj\Debug\CrudEstagio.Properties.Resources.resources
+C:\Users\isaac\source\repos\CrudEstagio\CrudEstagio\obj\Debug\CrudEstagio.csproj.GenerateResource.cache
+C:\Users\isaac\source\repos\CrudEstagio\CrudEstagio\bin\Debug\CrudEstagio.exe.config
+C:\Users\isaac\source\repos\CrudEstagio\CrudEstagio\bin\Debug\CrudEstagio.exe
+C:\Users\isaac\source\repos\CrudEstagio\CrudEstagio\bin\Debug\CrudEstagio.pdb
+C:\Users\isaac\source\repos\CrudEstagio\CrudEstagio\bin\Debug\MySql.Data.dll
+C:\Users\isaac\source\repos\CrudEstagio\CrudEstagio\bin\Debug\Google.Protobuf.dll
+C:\Users\isaac\source\repos\CrudEstagio\CrudEstagio\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\isaac\source\repos\CrudEstagio\CrudEstagio\bin\Debug\Renci.SshNet.dll
+C:\Users\isaac\source\repos\CrudEstagio\CrudEstagio\bin\Debug\MySql.Data.xml
+C:\Users\isaac\source\repos\CrudEstagio\CrudEstagio\obj\Debug\CrudEstagio.csproj.CopyComplete
+C:\Users\isaac\source\repos\CrudEstagio\CrudEstagio\obj\Debug\CrudEstagio.exe
+C:\Users\isaac\source\repos\CrudEstagio\CrudEstagio\obj\Debug\CrudEstagio.pdb
