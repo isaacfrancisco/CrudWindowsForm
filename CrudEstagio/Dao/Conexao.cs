@@ -9,7 +9,7 @@ namespace CrudEstagio.Dao
 {
     public class Conexao
     {
-        string bdConnection = "SERVER=localhost; DATABASE=estagio; UID=root; PWD=";
+        string bdConnection = "SERVER=localhost; DATABASE=contatos; UID=root; PWD=";
         protected MySqlConnection conexao = null;
 
         public void AbrirConexao()
